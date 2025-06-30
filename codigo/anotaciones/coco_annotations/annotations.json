@@ -1,0 +1,608 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "width": 3200,
+      "height": 1802,
+      "file_name": "greyhound.jpg",
+      "license": 0,
+      "date_captured": ""
+    },
+    {
+      "id": 2,
+      "width": 287,
+      "height": 175,
+      "file_name": "boxer.jpg",
+      "license": 0,
+      "date_captured": ""
+    },
+    {
+      "id": 3,
+      "width": 640,
+      "height": 371,
+      "file_name": "saint_benard.jpg",
+      "license": 0,
+      "date_captured": ""
+    },
+    {
+      "id": 4,
+      "width": 1536,
+      "height": 1024,
+      "file_name": "komondor.jpg",
+      "license": 0,
+      "date_captured": ""
+    },
+    {
+      "id": 5,
+      "width": 1023,
+      "height": 682,
+      "file_name": "shiba_inu.jpg",
+      "license": 0,
+      "date_captured": ""
+    },
+    {
+      "id": 6,
+      "width": 1280,
+      "height": 720,
+      "file_name": "bermaise.jpg",
+      "license": 0,
+      "date_captured": ""
+    },
+    {
+      "id": 7,
+      "width": 564,
+      "height": 481,
+      "file_name": "scotch_terrier.jpg",
+      "license": 0,
+      "date_captured": ""
+    },
+    {
+      "id": 8,
+      "width": 554,
+      "height": 554,
+      "file_name": "shiba_inu_kid.jpg",
+      "license": 0,
+      "date_captured": ""
+    },
+    {
+      "id": 9,
+      "width": 523,
+      "height": 371,
+      "file_name": "chihuahuas.jpg",
+      "license": 0,
+      "date_captured": ""
+    },
+    {
+      "id": 10,
+      "width": 470,
+      "height": 313,
+      "file_name": "doberman.jpg",
+      "license": 0,
+      "date_captured": ""
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 34,
+      "bbox": [
+        1182,
+        315,
+        1042,
+        616
+      ],
+      "area": 641872,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 1,
+      "category_id": 59,
+      "bbox": [
+        77,
+        691,
+        1964,
+        1091
+      ],
+      "area": 2142724,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 2,
+      "category_id": 17,
+      "bbox": [
+        154,
+        23,
+        132,
+        149
+      ],
+      "area": 19668,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 2,
+      "category_id": 17,
+      "bbox": [
+        3,
+        23,
+        141,
+        149
+      ],
+      "area": 21009,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 2,
+      "category_id": 18,
+      "bbox": [
+        16,
+        23,
+        268,
+        150
+      ],
+      "area": 40200,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 3,
+      "category_id": 61,
+      "bbox": [
+        344,
+        35,
+        273,
+        314
+      ],
+      "area": 85722,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 3,
+      "category_id": 61,
+      "bbox": [
+        18,
+        64,
+        390,
+        289
+      ],
+      "area": 112710,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 5,
+      "category_id": 65,
+      "bbox": [
+        452,
+        74,
+        257,
+        517
+      ],
+      "area": 132869,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 5,
+      "category_id": 67,
+      "bbox": [
+        198,
+        58,
+        209,
+        517
+      ],
+      "area": 108053,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 6,
+      "category_id": 9,
+      "bbox": [
+        704,
+        6,
+        575,
+        710
+      ],
+      "area": 408250,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 6,
+      "category_id": 9,
+      "bbox": [
+        2,
+        45,
+        557,
+        668
+      ],
+      "area": 372076,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 6,
+      "category_id": 9,
+      "bbox": [
+        467,
+        39,
+        360,
+        670
+      ],
+      "area": 241200,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 7,
+      "category_id": 29,
+      "bbox": [
+        348,
+        39,
+        216,
+        438
+      ],
+      "area": 94608,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 7,
+      "category_id": 63,
+      "bbox": [
+        171,
+        70,
+        221,
+        372
+      ],
+      "area": 82212,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 15,
+      "image_id": 7,
+      "category_id": 63,
+      "bbox": [
+        0,
+        103,
+        194,
+        372
+      ],
+      "area": 72168,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 16,
+      "image_id": 8,
+      "category_id": 65,
+      "bbox": [
+        264,
+        118,
+        182,
+        349
+      ],
+      "area": 63518,
+      "segmentation": [],
+      "iscrowd": 0
+    },
+    {
+      "id": 17,
+      "image_id": 9,
+      "category_id": 22,
+      "bbox": [
+        156,
+        125,
+        133,
+        208
+      ],
+      "area": 27664,
+      "segmentation": [],
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "afghan"
+    },
+    {
+      "id": 1,
+      "name": "african wild dog"
+    },
+    {
+      "id": 2,
+      "name": "airedale"
+    },
+    {
+      "id": 3,
+      "name": "american hairless"
+    },
+    {
+      "id": 4,
+      "name": "american spaniel"
+    },
+    {
+      "id": 5,
+      "name": "basenji"
+    },
+    {
+      "id": 6,
+      "name": "basset"
+    },
+    {
+      "id": 7,
+      "name": "beagle"
+    },
+    {
+      "id": 8,
+      "name": "bearded collie"
+    },
+    {
+      "id": 9,
+      "name": "bermaise"
+    },
+    {
+      "id": 10,
+      "name": "bichon frise"
+    },
+    {
+      "id": 11,
+      "name": "blenheim"
+    },
+    {
+      "id": 12,
+      "name": "bloodhound"
+    },
+    {
+      "id": 13,
+      "name": "bluetick"
+    },
+    {
+      "id": 14,
+      "name": "border collie"
+    },
+    {
+      "id": 15,
+      "name": "borzoi"
+    },
+    {
+      "id": 16,
+      "name": "boston terrier"
+    },
+    {
+      "id": 17,
+      "name": "boxer"
+    },
+    {
+      "id": 18,
+      "name": "bull mastiff"
+    },
+    {
+      "id": 19,
+      "name": "bull terrier"
+    },
+    {
+      "id": 20,
+      "name": "bulldog"
+    },
+    {
+      "id": 21,
+      "name": "cairn"
+    },
+    {
+      "id": 22,
+      "name": "chihuahua"
+    },
+    {
+      "id": 23,
+      "name": "chinese crested"
+    },
+    {
+      "id": 24,
+      "name": "chow"
+    },
+    {
+      "id": 25,
+      "name": "clumber"
+    },
+    {
+      "id": 26,
+      "name": "cockapoo"
+    },
+    {
+      "id": 27,
+      "name": "cocker"
+    },
+    {
+      "id": 28,
+      "name": "collie"
+    },
+    {
+      "id": 29,
+      "name": "corgi"
+    },
+    {
+      "id": 30,
+      "name": "coyote"
+    },
+    {
+      "id": 31,
+      "name": "dalmation"
+    },
+    {
+      "id": 32,
+      "name": "dhole"
+    },
+    {
+      "id": 33,
+      "name": "dingo"
+    },
+    {
+      "id": 34,
+      "name": "doberman"
+    },
+    {
+      "id": 35,
+      "name": "elk hound"
+    },
+    {
+      "id": 36,
+      "name": "french bulldog"
+    },
+    {
+      "id": 37,
+      "name": "german sheperd"
+    },
+    {
+      "id": 38,
+      "name": "golden retriever"
+    },
+    {
+      "id": 39,
+      "name": "great dane"
+    },
+    {
+      "id": 40,
+      "name": "great perenees"
+    },
+    {
+      "id": 41,
+      "name": "greyhound"
+    },
+    {
+      "id": 42,
+      "name": "groenendael"
+    },
+    {
+      "id": 43,
+      "name": "irish spaniel"
+    },
+    {
+      "id": 44,
+      "name": "irish wolfhound"
+    },
+    {
+      "id": 45,
+      "name": "japanese spaniel"
+    },
+    {
+      "id": 46,
+      "name": "komondor"
+    },
+    {
+      "id": 47,
+      "name": "labradoodle"
+    },
+    {
+      "id": 48,
+      "name": "labrador"
+    },
+    {
+      "id": 49,
+      "name": "lhasa"
+    },
+    {
+      "id": 50,
+      "name": "malinois"
+    },
+    {
+      "id": 51,
+      "name": "maltese"
+    },
+    {
+      "id": 52,
+      "name": "mex hairless"
+    },
+    {
+      "id": 53,
+      "name": "newfoundland"
+    },
+    {
+      "id": 54,
+      "name": "pekinese"
+    },
+    {
+      "id": 55,
+      "name": "pit bull"
+    },
+    {
+      "id": 56,
+      "name": "pomeranian"
+    },
+    {
+      "id": 57,
+      "name": "poodle"
+    },
+    {
+      "id": 58,
+      "name": "pug"
+    },
+    {
+      "id": 59,
+      "name": "rhodesian"
+    },
+    {
+      "id": 60,
+      "name": "rottweiler"
+    },
+    {
+      "id": 61,
+      "name": "saint bernard"
+    },
+    {
+      "id": 62,
+      "name": "schnauzer"
+    },
+    {
+      "id": 63,
+      "name": "scotch terrier"
+    },
+    {
+      "id": 64,
+      "name": "shar_pei"
+    },
+    {
+      "id": 65,
+      "name": "shiba inu"
+    },
+    {
+      "id": 66,
+      "name": "shih-tzu"
+    },
+    {
+      "id": 67,
+      "name": "siberian husky"
+    },
+    {
+      "id": 68,
+      "name": "vizsla"
+    },
+    {
+      "id": 69,
+      "name": "yorkie"
+    }
+  ],
+  "info": {},
+  "licenses": []
+}

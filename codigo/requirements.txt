@@ -1,0 +1,12 @@
+kagglehub
+pandas
+opencv-python
+numpy
+matplotlib
+tensorflow
+scikit-learn
+faiss-cpu
+gradio
+gdown
+seaborn
+ultralytics
